@@ -1,6 +1,6 @@
 {
-  "name": "@arsalanami92/number-guessing-game",
-  "version": "1.0.0",
+  "name": "@arsalanazmi92/number-guessing-game",
+  "version": "1.0.2",
   "description": "A simple CLI based number guessing game using TypeScript, Node.js & Inquirer.",
   "main": "index.js",
   "type": "module",
@@ -12,11 +12,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Arsalan Raza Azmi",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.22"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.7"
-  }
+  "license": "ISC"
 }
